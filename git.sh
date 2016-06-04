@@ -1,4 +1,4 @@
 git add .
-git commit -m date
+git commit
 git pull origin master
 git push origin master
